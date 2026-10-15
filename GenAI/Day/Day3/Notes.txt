@@ -1,0 +1,44 @@
+Point 1: Ensure virtual env is activated (terminal of vs code)
+======================================================================================
+Install dependencies exactly inside the virtual environment
+"d:\Your_Repository_Folder\.venv\Scripts\python.exe" -m pip install package-name
+
+pip install langchain_ollama
+=======================================================================================
+Start to execute the code:
+
+Topic: Working on Prompt Templates
+Example: P1.py : Save this file and execute
+
+Topic: System Prompt vs User Prompt: Refusing Unrelated Questions
+Example: P2.py : Save this file and execute
+
+Topic: Prompt Templates with f-strings
+Example: P3.py : Save this file and execute
+
+Topic: LangChain PromptTemplate
+Example: P4.py: Save this file and execute
+
+Topic: P5.py — LangChain ChatPromptTemplate
+
+Topic: P6.py — LangChain ChatPromptTemplate with Ollama
+
+Topic: P7.py - LangChain ChatPromptTemplate with Gemini
+
+Topic: P8.py — Multi-Turn Conversations: Building Chat History Manually
+
+Topic: P9.py — Mini-Challenge: Customer Support Bot Template
+
+Topic: P10.py — Prompting for JSON Output with Ollama
+
+Topic: P11.py — LangChain Output Parser: String Output
+
+Topic: P12.py — LangChain Output Parser: JSON Output
+
+Topic: P13.py — Pydantic for Structured Output Validation
+
+Topic: P14.py — Putting It Together: Template → LLM → Parser Pipeline
+
+Topic: P15.py — .invoke() runs the full chain
+
+Topic: P16.py — ChatMessageHistory with LCEL — keeps full history
